@@ -1,5 +1,5 @@
 {
-  "name": "sending-tttp-request",
+  "name": "sending-http-request",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
